@@ -1,3 +1,7 @@
+# Guide in here
+
+[Guide](https://stefanprodan.com/2017/docker-swarm-instrumentation-with-prometheus/)
+
 # swarmprom
 
 Swarmprom is a starter kit for Docker Swarm monitoring with [Prometheus](https://prometheus.io/),
